@@ -1,0 +1,46 @@
+#one ul li a {
+  color: darkgoldenrod;
+}
+#two {
+  margin-top: 51px;
+  position: relative;
+}
+#two #two1 img {
+  width: 200px;
+}
+#two #two1 button {
+  width: 200px;
+}
+#two #two2 {
+  margin-top: 20px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  color: green;
+}
+#three {
+  margin-top: 10px;
+}
+#three p {
+  color: darkslateblue;
+}
+
+#six .carousel-caption {
+  color: blue;
+}
+#seven {
+  margin: 100px auto;
+}
+
+/*#nine {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+}
+#ten {
+  margin: 100px auto;
+}
+#o11 {
+  margin-left: 350px;
+  width: 500px;
+}*/
